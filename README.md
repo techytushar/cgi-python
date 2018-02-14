@@ -1,0 +1,1 @@
+Simple registration and login made using the Python CGI module and SQLite3 as database. Suggestions and improvements are welcome.
